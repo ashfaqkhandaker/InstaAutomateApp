@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\instaAuto\\InstaAutomateApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|d:\\c#\\instaauto\\instaautomateapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|d:\\c#\\instaauto\\instaautomateapp\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|solutionrelative:usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|D:\\C#\\instaAuto\\InstaAutomateApp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|D:\\C#\\instaAuto\\InstaAutomateApp\\forms\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|solutionrelative:forms\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|D:\\C#\\instaAuto\\InstaAutomateApp\\forms\\addserviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|solutionrelative:forms\\addserviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|D:\\C#\\instaAuto\\InstaAutomateApp\\forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|solutionrelative:forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|D:\\C#\\instaAuto\\InstaAutomateApp\\forms\\providerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|solutionrelative:forms\\providerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|D:\\C#\\instaAuto\\InstaAutomateApp\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|solutionrelative:forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|D:\\C#\\instaAuto\\InstaAutomateApp\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9245C07-2664-8E8D-D85B-6F9E9AB71527}|InstaAutomateApp.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "D:\\C#\\instaAuto\\InstaAutomateApp\\UserSession.cs",
+              "RelativeDocumentMoniker": "UserSession.cs",
+              "ToolTip": "D:\\C#\\instaAuto\\InstaAutomateApp\\UserSession.cs",
+              "RelativeToolTip": "UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:31:40.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\instaAuto\\InstaAutomateApp\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Forms\\Form1.cs",
+              "ToolTip": "D:\\C#\\instaAuto\\InstaAutomateApp\\Forms\\Form1.cs",
+              "RelativeToolTip": "Forms\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:40:01.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\instaAuto\\InstaAutomateApp\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "D:\\C#\\instaAuto\\InstaAutomateApp_Fixed\\output\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\InstaAutomateApp_Fixed\\output\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:58:55.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignupForm.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\instaAuto\\InstaAutomateApp\\Forms\\SignupForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SignupForm.cs",
+              "ToolTip": "D:\\C#\\instaAuto\\InstaAutomateApp_Fixed\\output\\Forms\\SignupForm.cs [Design]",
+              "RelativeToolTip": "..\\InstaAutomateApp_Fixed\\output\\Forms\\SignupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:59:10.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\instaAuto\\InstaAutomateApp\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Forms\\Form1.cs",
+              "ToolTip": "D:\\C#\\instaAuto\\InstaAutomateApp_Fixed\\output\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\InstaAutomateApp_Fixed\\output\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:33:52.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProviderDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\instaAuto\\InstaAutomateApp\\Forms\\ProviderDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\ProviderDashboard.cs",
+              "ToolTip": "D:\\C#\\instaAuto\\InstaAutomateApp_Fixed\\output\\Forms\\ProviderDashboard.cs [Design]",
+              "RelativeToolTip": "..\\InstaAutomateApp_Fixed\\output\\Forms\\ProviderDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:57:54.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\instaAuto\\InstaAutomateApp\\Forms\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerDashboard.cs",
+              "ToolTip": "D:\\C#\\instaAuto\\InstaAutomateApp_Fixed\\output\\Forms\\CustomerDashboard.cs [Design]",
+              "RelativeToolTip": "..\\InstaAutomateApp_Fixed\\output\\Forms\\CustomerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:58:15.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddServiceForm.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\instaAuto\\InstaAutomateApp\\Forms\\AddServiceForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AddServiceForm.cs",
+              "ToolTip": "D:\\C#\\instaAuto\\InstaAutomateApp_Fixed\\output\\Forms\\AddServiceForm.cs [Design]",
+              "RelativeToolTip": "..\\InstaAutomateApp_Fixed\\output\\Forms\\AddServiceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:01:08.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutForm.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\instaAuto\\InstaAutomateApp\\Forms\\CheckoutForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CheckoutForm.cs",
+              "ToolTip": "D:\\C#\\instaAuto\\InstaAutomateApp_Fixed\\output\\Forms\\CheckoutForm.cs [Design]",
+              "RelativeToolTip": "..\\InstaAutomateApp_Fixed\\output\\Forms\\CheckoutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:01:36.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
